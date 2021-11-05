@@ -1,4 +1,4 @@
-## Movie APP Based On TMBD API;
+## Movie APP Based On TMDB API;
 
 Front View Of The Application
 
