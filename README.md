@@ -10,11 +10,11 @@ Front View Based on Search Movie
 
 Front View Based on Genere
 
-![Alt Text](images/frontend4?raw=true "Title");
+![Alt Text](images/frontend4.PNG?raw=true "Title");
 
 Front View  with Overview Hover
 
-![Alt Text](images/frontend3?raw=true "Title");
+![Alt Text](images/frontend3.PNG?raw=true "Title");
 
 
 
